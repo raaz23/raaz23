@@ -8,21 +8,21 @@
 🔭 I’m working on some MERN projects...<br>
 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> , <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> and <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> ...<br>
 👯 I’m looking to collaborate on open-source projects and some hackathons...<br>
-👨‍💻 All of my projects are available at my <a href="https://dhruv-arora.vercel.app/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br>
-📫 How to reach me: <a href="mailto:dhruvarora2612@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+👨‍💻 All of my projects are available at my <a href="https://github.com/raaz23/raaz23"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br>
+📫 How to reach me: <a href="mailto:yadavraj1244@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
 ⚡ Fun fact: I never stick to my plan :)<br>
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" />
   
 ## 🌐 Socials:
 <p align="left">
-<a href="https://instagram.com/raazveer30" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="dhruv_a_26" height="30" width="30" /></a>
-<a href="https://dribbble.com/lord_benjamin" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="lord_benjamin" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/raaz23" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="lord_benjamin" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/raaz23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="lord_benjamin" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/raaz23" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="lord_benjamin" height="30" width="30" /></a>
-<a href="https://www.leetcode.com/raaz1_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="lord-benjamin" height="30" width="30" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lordbenjamin" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="lordbenjamin" height="20" width="40" /></a>
+<a href="https://instagram.com/raazveer30" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://dribbble.com/raaz" target="blank"><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/dribbble-icon-1-logo-png-transparent.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/raaz23" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/raaz23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="raaz" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/raaz23" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://www.leetcode.com/raaz1_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/raaz" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="raaz" height="20" width="40" /></a>
 </p>
 
 ## 💻 Languages, Frameworks, and Tools:
