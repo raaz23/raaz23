@@ -5,7 +5,7 @@
 ---
 ## 💫 About Me:
 👨‍🎓 I'm currently an undergraduate student at Galgotias University - Greater Noida, India<br>
-🔭 I work MERN projects...<br>
+🔭 I work on MERN projects...<br>
 🌱 I’m currently learning <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> , <img align="center" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> and <img align="center" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> ...<br>
 👯 I’m looking to collaborate on open-source projects and some hackathons...<br>
 👨‍💻 All of my projects are available at my <a href="https://linktr.ee/raaz23"><img align="center" src="https://img.shields.io/badge/Linktree-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a><br>
