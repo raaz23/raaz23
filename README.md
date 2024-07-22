@@ -50,4 +50,7 @@
 ### 👀 Profile Views
 ![ProfileCount](https://visitcount.itsvg.in/api?id=raaz23&icon=5&color=1)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Bagdes-->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7a7d3992-c778-49b1-89b0-a78a19932d15/deploy-status)](https://app.netlify.com/sites/pdftoolconverter/deploys)
+
+
