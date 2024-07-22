@@ -18,6 +18,9 @@
 <a href="https://instagram.com/raazveer30" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="raaz" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/raaz23" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="raaz" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/raaz1_23" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/raju-yadav-148525283/?profileId=ACoAAET0cIgBFBlTgA9Q3rse-RVpagIDd7uhQxk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="raaz" height="30" width="30" /></a>
+<a href="https://linktr.ee/raaz23" target="blank"><img align="center" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" alt="raaz" height="30" width="30" /></a>
+
 
 
 ## 💻 Languages, Frameworks, and Tools:
